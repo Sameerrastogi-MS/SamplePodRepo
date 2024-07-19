@@ -1,0 +1,22 @@
+{
+  "name": "SamplePod",
+  "version": "0.1.0",
+  "summary": "A short description of SamplePod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Sameer/SamplePod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Sameer": "sarastogi@microsoft.com"
+  },
+  "source": {
+    "git": "https://github.com/Sameer/SamplePod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SamplePod/Classes/**/*"
+}
